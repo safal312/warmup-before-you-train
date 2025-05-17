@@ -1,0 +1,3 @@
+select,model,subjects,train_size,notes
+True,"../../outputs/qwen2.5-3b-grpo-humanities-mmlu-small/checkpoint-250/",history|law|philosophy,100,warmup+humanities100
+True,"../../outputs/qwen2.5-3b-grpo-humanities-mmlu-small/checkpoint-250/",human_eval,50,warmup+humanities100
