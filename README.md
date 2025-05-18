@@ -5,7 +5,7 @@
 This repository accompanies the paper:
 
 📄 **[Warmup Before You Train: Unlocking General Reasoning in Resource-Constrained Settings](https://arxiv.org/abs/your_arxiv_id)**  
-🤗 **[Find the model and data on Hugging Face Hub](https://huggingface.co/your-username/your-model-name](https://huggingface.co/collections/safal312/warmup-before-you-train-6829ddbc5e6f0c59f4a86a98)**
+🤗 **[Find the model and data on Hugging Face Hub](https://huggingface.co/collections/safal312/warmup-before-you-train-6829ddbc5e6f0c59f4a86a98)**
 
 ## 📄 Abstract
 
