@@ -1,6 +1,6 @@
 # Warmup Before You Train: Unlocking General Reasoning in Resource-Constrained Settings
 
-![Methodology](figures/fig1.pdf)
+![Methodology](figures/fig1.png)
 
 This repository accompanies the paper:
 
