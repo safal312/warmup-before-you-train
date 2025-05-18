@@ -269,7 +269,7 @@ def load_kk():
     {prompt}
     Assistant: <think>
     """
-    data_path = "/home/VRL/vanilla_trainer/Logic-RL"
+    data_path = "./train/data/Logic-RL"
     
     ppl_ds = []
     for ppl_file in os.listdir(data_path):

@@ -1,16 +1,8 @@
-#model_name: "Qwen/Qwen2.5-Math-1.5B"
-model_name: "../outputs/qwen2.5-1.5b-cp75-math/checkpoint-150/"
-#model_name: "../outputs/qwen1.5b-math-sft-pro-kk/checkpoint-75/"
-#model_name: "../outputs/qwen1.5b-math-sft-pro-kk/checkpoint-1092/"
-#model_name: "../outputs/qwen2.5-3b-sft-pro/checkpoint-1092/" 
-#model_name: "../outputs/qwen2.5-3b-grpo-humanities-mmlu-small/checkpoint-150/" 
-#model_name: "../outputs/qwen2.5-3b-sftkkpro-math-small/checkpoint-125"
-output_dir: "../outputs/qwen2.5-1.5b-cp75-math/"
-run_name: "qwen1.5b-cp75-math"
-# output_dir: "../outputs/qwen2.5-1.5b-sftkk-math/"
-# run_name: "qwen1.5b-sftkk-math"
-resume_from_checkpoint: True
-checkpoint_path: "../outputs/qwen2.5-1.5b-cp75-math/checkpoint-150/"
+model_name: "Qwen/Qwen2.5-Math-1.5B"
+output_dir: "../outputs/out_dir"
+run_name: "wandb run name"
+resume_from_checkpoint: False 
+checkpoint_path: ".."
 learning_rate: 1e-6
 beta: 0
 adam_beta1: 0.9

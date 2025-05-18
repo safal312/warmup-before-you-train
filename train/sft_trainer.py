@@ -53,7 +53,7 @@ parser = TrlParser(dataclass_types=[MyArguments])
 training_args = parser.parse_args_and_config()[0]
 
 #df = pd.read_csv("qwq_samples.csv")
-df = pd.read_csv("process_subset_qwq.csv")
+df = pd.read_csv("data/process_subset_qwq.csv")
 # df = pd.read_csv("subset_graph_qwq.csv")
 # df = pd.read_csv("rs_format_correct_qwen32kk.csv")
 
