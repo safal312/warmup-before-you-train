@@ -2,11 +2,6 @@
 
 ![Methodology](figures/fig1.png)
 
-This repository accompanies the paper:
-
-📄 **[Warmup Before You Train: Unlocking General Reasoning in Resource-Constrained Settings](https://arxiv.org/abs/your_arxiv_id)**  
-🤗 **[Find the model and data on Hugging Face Hub](https://huggingface.co/collections/safal312/warmup-before-you-train-6829ddbc5e6f0c59f4a86a98)**
-
 ## 📄 Abstract
 
 Designing effective reasoning-capable LLMs typically requires training using Reinforcement Learning with Verifiable Rewards (RLVR) or distillation with carefully curated Long Chain of Thoughts (CoT), both of which depend heavily on extensive training data. This creates a major challenge when the amount of quality training data is scarce. 
@@ -47,17 +42,3 @@ In the second stage, we apply RLVR to the warmed-up model using a limited set of
 * **MATH**
 * **HumanEval+**
 * **MMLU-Pro**
-
-
-
-## 📜 Citation
-
-If you use this code, please cite:
-
-```
-@article{yourcitation2025warmup,
-  title={Warmup Before You Train: Unlocking General Reasoning in Resource-Constrained Settings},
-  author={Shrestha et al.},
-  year={2025}
-}
-```
