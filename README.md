@@ -4,7 +4,7 @@
 
 This repository accompanies the paper:
 
-📄 **[Warmup Before You Train: Unlocking General Reasoning in Resource-Constrained Settings](https://arxiv.org/abs/your_arxiv_id)**  
+📄 **[Warmup Before You Train: Unlocking General Reasoning in Resource-Constrained Settings](https://arxiv.org/pdf/2505.13718)**  
 🤗 **[Find the model and data on Hugging Face Hub](https://huggingface.co/collections/safal312/warmup-before-you-train-6829ddbc5e6f0c59f4a86a98)**
 
 ## 📄 Abstract
@@ -53,9 +53,10 @@ In the second stage, we apply RLVR to the warmed-up model using a limited set of
 If you use this code, please cite:
 
 ```
-@article{yourcitation2025warmup,
-  title={Warmup Before You Train: Unlocking General Reasoning in Resource-Constrained Settings},
-  author={Shrestha et al.},
-  year={2025}
+@article{shrestha2025warm,
+  title={Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings},
+  author={Shrestha, Safal and Kim, Minwu and Nepal, Aadim and Shrestha, Anubhav and Ross, Keith},
+  year={2025},
+  url={https://arxiv.org/abs/2505.13718}
 }
 ```
